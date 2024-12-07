@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: dev-container
-        image: <todo>
+        image: gcr.io/cloud-builders/docker/qwiklabs-gcp-04-0ae2a5144337
         ports:
         - containerPort: 8080
